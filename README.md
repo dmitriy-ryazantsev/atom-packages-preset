@@ -13,7 +13,7 @@
 P.S.
 Make sure that `apm` is in your PATH variable!
 
-## List of packages:
+## List of packages in this preset:
 - [atom-bootstrap3](https://atom.io/packages/atom-bootstrap3)
 - [atom-ternjs](https://atom.io/packages/atom-ternjs)
 - [auto-reveal-in-sidebar](https://atom.io/packages/auto-reveal-in-sidebar)
