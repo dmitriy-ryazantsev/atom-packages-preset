@@ -10,8 +10,9 @@
     - README.md
 4. Run: `atom-install-packages.bat`.
 
-P.S.
+### P.S.
 Make sure that `apm` is in your PATH variable!
+Possible path to `apm` may be like this: `%SystemDrive%\Users\<user name>\AppData\Local\atom\bin`.
 
 ## List of packages in this preset:
 - [atom-bootstrap3](https://atom.io/packages/atom-bootstrap3)
