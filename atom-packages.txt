@@ -6,6 +6,7 @@ busy
 build
 build-npm-apm
 chrome-color-picker
+expose
 file-icons
 refactor
 js-refactor
